@@ -8,4 +8,5 @@ The new Google Reader really disappointed a lot of people, not only for its awfu
 **For Linux users:** the only dependency is PyQt4
 
 **For Windows users:** I have compiled a binary distribution for you (though I don't use Windows)
+
 https://github.com/downloads/qiao/GR-JSON-Reader/GR.exe
